@@ -1,0 +1,7 @@
+# APP_REACT_EXPO_AND_FLASK
+
+
+# Back-end
+
+The backend of this application is created with Node JS and Mongo DB Atlas as a database.
+to run the backend clone this repository and run: npm i to install the modules.
