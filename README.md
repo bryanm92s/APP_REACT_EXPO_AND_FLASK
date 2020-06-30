@@ -25,6 +25,7 @@ APP_REACT_EXPO_AND_FLASK\VIDEOS\
 # User created for the mobile application and the web application:
 
 email: cesdefinal@cesde.com
+
 password: 123456
 
 NOTE: In the mobile application (APP_REACT_EXPO_AND_FLASK\REACT\propriertyapp) you can create accounts by entering email and password (Validations were made)
