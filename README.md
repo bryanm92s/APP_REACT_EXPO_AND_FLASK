@@ -17,6 +17,10 @@ You must ensure that you have globally installed expo and expo-cli packages on y
 
 Once you have everything installed and the backend running, just run expo start at the root of this project (APP_REACT_EXPO_AND_FLASK\REACT\propriertyapp) and the expo will launch. You choose to run it in the browser, device emulator or real device through the QR code, but remember that alerts are not compatible with the web browser.
 
+# Interface Web
+
+To run the application front-end, clone this repository and run: python app.py in the APP_REACT_EXPO_AND_FLASK\FLASK\ directory.
+
 # Videos
 
 Here you can find two videos with the explanation of the application flow. (REACT, FLASK)
