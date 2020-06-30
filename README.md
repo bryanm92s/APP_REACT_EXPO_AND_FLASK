@@ -6,11 +6,11 @@ This is the front of a mobile and web application to view properties.
 # Back-end
 
 The backend of this application is created with Node JS and Mongo DB Atlas as a database.
-to run the backend clone this repository and run npm i in the APP_REACT_EXPO_AND_FLASK\REACT\propriertyapp\server
+to run the backend clone this repository and run: npm i in the APP_REACT_EXPO_AND_FLASK\REACT\propriertyapp\server
 
 # Interface
 
-To run the application front-end, clone this repository and run npm i in the APP_REACT_EXPO_AND_FLASK\REACT\propriertyapp directory
+To run the application front-end, clone this repository and run: npm i in the APP_REACT_EXPO_AND_FLASK\REACT\propriertyapp directory
 
 You must ensure that you have globally installed expo and expo-cli packages on your machine before the propriertyapp application can run.
 
@@ -28,7 +28,7 @@ Here you can find two videos with the explanation of the application flow. (REAC
 email: cesdefinal@cesde.com
 password: 123456
 
-# NOTE: # In the mobile application (APP_REACT_EXPO_AND_FLASK\REACT\propriertyapp) you can create accounts by entering email and password (Validations were made)
+NOTE: In the mobile application (APP_REACT_EXPO_AND_FLASK\REACT\propriertyapp) you can create accounts by entering email and password (Validations were made)
 
 
 
