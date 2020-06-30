@@ -19,7 +19,7 @@ Once you have everything installed and the backend running, just run expo start 
 
 # Interface Web
 
-To run the application front-end, clone this repository and run: python app.py in the APP_REACT_EXPO_AND_FLASK\FLASK\ directory.
+To run the application front-end, clone this repository and run: python app.py in the APP_REACT_EXPO_AND_FLASK\FLASK\ directory and you should enter the link http://127.0.0.1:8081/
 
 # Videos
 
